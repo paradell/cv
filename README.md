@@ -6,7 +6,7 @@ ALEIX PARADELL NAVARRO
 
 November the 15th, 1984
 
-Use git to contact me. Open a PR an it will wing a bell !
+Use git to contact me. Open a PR and it will ring a bell !
 
 `~Your tests finding no bugs means that you are not digging deep enough.~`
 
