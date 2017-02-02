@@ -1,16 +1,8 @@
 # CURRICULUM VITAE
 
-## PERSONAL DATA
-
-ALEIX PARADELL NAVARRO
-
-November the 15th, 1984
-
-Use git to contact me. Open a PR and it will ring a bell !
-
 `~Your tests finding no bugs means that you are not digging deep enough.~`
 
-#### Brief description of myself
+Use github to contact me. Open an issue or a PR and it will ring a bell !
 
 I’m a QA engineer with 7 years of experience. In this period I’ve enjoyed both the challenge of thinking the product from a different point of view, and how a good test strategy can save time, effort and money to your team, other teams, and the company itself. 
 
@@ -21,16 +13,16 @@ In a near future I would like to keep learning new testing methods and tools, an
 ## SKILLS
  
  * Definition, review and execution of **Test Plans**
+ * API Test Automation, using mainly [Behave](https://github.com/beahve) (BDD for python), and also used old tools like lettuce or soapUI
+ * **Python** knowledge, and also basic skills in **Java** and **C++**
+ * Experience using **Git**, **Jira** and **Jenkins**
+ * **Regression**, **Integration** and **Acceptance** Testing
+ * Testing methodologies (**BDD**, **TDD**)
  * Functional Requirements
  * Scripting & Documentation 
- * **Regression**, **Integration** and **Acceptance** Testing
- * API Test Automation, using mainly [Behave](https://github.com/beahve) (BDD for python), and also used old tools like lettuce or soapUI
  * Basic skills in web and apps test automation, using [Selenium Webdriver](http://www.seleniumhq.org/projects/webdriver/), [appium](https://github.com/appium).
- * **Python** knowledge, and also basic skills in **Java** and **C++**
- * Basic skills in **SIP** protocol
- * Experience using **Git**, **Jira** and **Jenkins**
- * Testing methodologies (**BDD**, **TDD**)
  * Development methodologies (**Agile**, **Scrum**) 
+ * Basic skills in **SIP** protocol
  
 ## PROFESSIONAL DATA
 
@@ -45,7 +37,7 @@ QA engineer, and later, QA Lead of the Backend scrum team. TU Go is a service to
  * Certification processes owner.
  * Encourage all roles of the team to feel owners of the quality
 
-*Contributions:*
+*Achievements:*
  * Define a test Automation strategy
  * Migrate all automated tests to **behave** and stabilize them
  * **Standardize RFA process**,  reducing from **1 week to 2 days** the time needed to certify a release
@@ -59,7 +51,7 @@ QA engineer, and later, QA Lead of the Backend scrum team. TU Go is a service to
 
 Test plan definition and execution for both front end and back end features. 
 
-*Contributions:*
+*Achievements:*
  * Improved and maintained mock services
  * Handover to a brand new QA team 
  * Make the product robust enough for supporting 300k users.
@@ -72,7 +64,7 @@ Manual testing, implementation of test cases and bug tracking of all components 
 
 Test plan definition and manual execution for websites, installers and back-office. Bug tracking. Test Automation (PHPUnit and PythonUnit).
 
-*Contributions:*
+*Achievements:*
  * Started Automation process for PC Applications and installers
  * First agile team initiative in the company
 
