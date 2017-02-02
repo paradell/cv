@@ -25,11 +25,11 @@ In a near future I would like to keep learning new testing methods and tools, an
  * Scripting & Documentation 
  * **Regression**, **Integration** and **Acceptance** Testing
  * API Test Automation, using mainly [Behave](https://github.com/beahve) (BDD for python), and also used old tools like lettuce or soapUI
- * Basic skills in web adnd apps test automation, using [Selenium Webdriver](http://www.seleniumhq.org/projects/webdriver/), [appium](https://github.com/appium).
+ * Basic skills in web and apps test automation, using [Selenium Webdriver](http://www.seleniumhq.org/projects/webdriver/), [appium](https://github.com/appium).
  * **Python** knowledge, and also basic skills in **Java** and **C++**
  * Experience using **Git**, **Jira** and **Jenkins**
- * Testing methodolgies (**BDD**, **TDD**)
- * Development methodolgies (**Agile**, **Scrum**) 
+ * Testing methodologies (**BDD**, **TDD**)
+ * Development methodologies (**Agile**, **Scrum**) 
  
 ## PROFESSIONAL DATA
 
