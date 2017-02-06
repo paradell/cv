@@ -78,7 +78,7 @@ Test plan definition and manual execution for websites, installers and back-offi
 
 ## ACADEMIC DATA
 
-2006 - 2012	Enginyeria Tècnica de Telecomunicacions, specialized in Telemàtica at Escola Politècnica Superior de Castelldefels,  Universitat Politècnica de Catalunya.
+2012	Enginyeria Tècnica de Telecomunicacions, specialized in Telemàtica at Escola Politècnica Superior de Castelldefels,  Universitat Politècnica de Catalunya.
 
 
 ## OTHER TITLES
