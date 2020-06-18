@@ -1,24 +1,25 @@
-# CURRICULUM VITAE
-
-`~Your tests finding no bugs means that you are not digging deep enough.~`
+# ALEIX PARADELL NAVARRO
 
 Use github to contact me. Open an issue or a PR and it will ring a bell !
 
-I’m a QA engineer with 7 years of experience. In this period I’ve enjoyed both the challenge of thinking the product from a different point of view, and how a good test strategy can save time, effort and money to your team, other teams, and the company itself. 
+I’m a QA engineer with 9 years of experience. In this period I’ve enjoyed both the challenge of thinking the product from a different point of view, and how a good test strategy can save time, effort and money to your team, other teams, and the company itself. 
 
 Teamwork and communication between different roles is key for the product's quality. I love to share knowledge and points of view about the code, ways of working and quality with my team mates. I also enjoy helping the team and getting help from them to increase quality both in the project and in the processes. 
 
-In a near future I would like to keep learning new testing methods and tools, and expanding my knowledge to other testing areas where I’ve not worked that much, such as performance, load or mobile apps testing.
+The challenge I’m currently facing is in rethinking the way I approach testing in Big Data and Machine Learning projects. It’s been a whole new area, and it’s exciting to learn from new roles like Data Engineers and Scientist how to add quality to their processes and products.
 
 ## SKILLS
  
  * Definition, review and execution of **Test Plans**
  * API Test Automation, using mainly [Behave](https://github.com/beahve) (BDD for python), and also used old tools like lettuce or soapUI
- * **Python** knowledge, and also basic skills in **Java** and **C++**
+ * Experienced using **Python**, and also basic skills in **Java** and **C++**.
+ * **Big Data** experience: **Apache Spark** and **HDFS** mainly
  * Experience using **Git**, **Jira** and **Jenkins**
+ * Experience in **Docker** and **Openshift**. 
  * **Regression**, **Integration** and **Acceptance** Testing
  * Testing methodologies (**BDD**, **TDD**)
  * Functional Requirements
+ * Non-functional testing, simple performance testing
  * Scripting & Documentation 
  * Basic skills in web and apps test automation, using [Selenium Webdriver](http://www.seleniumhq.org/projects/webdriver/), [appium](https://github.com/appium).
  * Development methodologies (**Agile**, **Scrum**) 
@@ -28,7 +29,12 @@ In a near future I would like to keep learning new testing methods and tools, an
 
 #### Testing experience
 
-**QA Engineer at TU Go (Telefónica I+D).** February 2013 - Today 
+**QA and Python Developer at Data Innovation (Telefónica I+D)**. February 2017 - Today 
+
+Innovate in new business models based on Telefónica assets (data, environments, clients, etc.)
+
+
+**QA Engineer at TU Go (Telefónica I+D).** February 2013 - February 2017
 
 QA engineer, and later, QA Lead of the Backend scrum team. TU Go is a service to extend and the Mobile network to a VoIP domain through apps and web. gBE component managed the provision, calls and sms logic.
 
