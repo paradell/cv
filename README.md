@@ -31,7 +31,18 @@ The challenge I’m currently facing is in rethinking the way I approach testing
 
 **QA and Python Developer at Data Innovation (Telefónica I+D)**. February 2017 - Today 
 
-Innovate in new business models based on Telefónica assets (data, environments, clients, etc.)
+Innovate in new business models based on Telefónica Data. DI is a team of every member is encouraged to work and learn outside its expertise area. This is challenging but very exiting, because I’ve learned a lot of new skills for python development, devops or Big Data.
+
+*Tasks:*
+ * Ownership of the quality of the processes of all DI projects
+ * Data validation
+ * Creation and maintenance of the Continous Integration pipelines
+ * Contribution to python and spark code.
+ 
+*Achievements:*
+ * Creation of a Continous Delivery framework used in all projects
+ * Creation of a set of utils for Apache Spark to reuse code in every repository in Data Innovation.
+ * Added automated tests in Big Data pipelines and Machine Learning models.
 
 
 **QA Engineer at TU Go (Telefónica I+D).** February 2013 - February 2017
