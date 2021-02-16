@@ -2,19 +2,20 @@
 
 Use github to contact me. Open an issue or a PR and it will ring a bell !
 
-I’m a QA engineer with 9 years of experience. In this period I’ve enjoyed both the challenge of thinking the product from a different point of view, and how a good test strategy can save time, effort and money to your team, other teams, and the company itself. 
+I’m a QA engineer with 11 years of experience. In this period I’ve enjoyed both the challenge of thinking the product from a different point of view, and how a good test strategy can save time, effort and money to your team, other teams, and the company itself. 
 
-Teamwork and communication between different roles is key for the product's quality. I love to share knowledge and points of view about the code, ways of working and quality with my team mates. I also enjoy helping the team and getting help from them to increase quality both in the project and in the processes. 
+Teamwork and communication between different roles is key for the product's quality. I love to share knowledge and points of view about the code, ways of working and quality with my team mates. I also enjoy helping the team and getting help from them to increase quality both in the project and in the processes.
 
-The challenge I’m currently facing is in rethinking the way I approach testing in Big Data and Machine Learning projects. It’s been a whole new area, and it’s exciting to learn from new roles like Data Engineers and Scientist how to add quality to their processes and products.
+Currently, I’m working as QA and Python Developer in the Data Innovation team, where I’ve learned a lot from areas, like the importance of assuring the quality of the data used in Big Data and Machine Learning algorithms, and also to test the proper quality of the Machine Learning models themselves.
 
 ## SKILLS
  
  * Definition, review and execution of **Test Plans**
  * API Test Automation, using mainly [Behave](https://github.com/beahve) (BDD for python), and also used old tools like lettuce or soapUI
  * Experienced using **Python**, and also basic skills in **Java** and **C++**.
- * **Big Data** experience: **Apache Spark** and **HDFS** mainly
- * Experience using **Git**, **Jira** and **Jenkins**
+ * **Big Data** experience: **Apache Spark** and **HDFS**.
+ * Experience on **testing Big Data** and **Machine Learning models**.
+ * Experience using **Git**, **Jira**, **Jenkins** and **Airflow**.
  * Experience in **Docker** and **Openshift**. 
  * **Regression**, **Integration** and **Acceptance** Testing
  * Testing methodologies (**BDD**, **TDD**)
@@ -41,7 +42,7 @@ Innovate in new business models based on Telefónica Data. DI is a team of every
  
 *Achievements:*
  * Creation of a Continous Delivery framework used in all projects
- * Creation of a set of utils for Apache Spark to reuse code in every repository in Data Innovation.
+ * Creation of a set of utils for Apache Spark to reuse code in every repository in Data Innovation(**di-sparkutils**).
  * Added automated tests in Big Data pipelines and Machine Learning models.
 
 
