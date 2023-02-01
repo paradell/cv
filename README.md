@@ -2,9 +2,12 @@
 
 Use github to contact me. Open an issue or a PR and it will ring a bell !
 
-I started as a QA just after college, and in these 11 years I've been contributing and learning in several projects. My career has been pivoting into analyzing the core areas of the products, and defining and implementing the automated tests that could make an impact in the development cycle. Teamwork and communication between different roles is key for the product's quality, and to involve every team member to take ownership, in their areas of expertise, of the product quality. The last 4 years, I've gained experience in Big Data, giving and developing ideas of new business in coordination with the end clients. 
+I'm an engineer with Data Engineering and Quality Assurance experience. I like working on projects with impact in people's and clients' lives, overcoming any new challenge that may appear.
 
-This fulfilling Big Data experience has opened the gates of an area where I've enjoyed a lot learning new concepts, using new tools and facing exciting challenges. I see myself in the immediate future keeping in touch with data driven business. And based on the 4 year experience in Big Data, to continue contributing and learning even more in this area, which is crucial in the new digital economies.
+In every project I worked on, I've been part of a multidisciplinary team where fluent communication and teamwork were the keys to meet the objectives and deal with the uncertainties. Thanks to these synergies, I've learnt from areas I was not previously confident on, and I've earned an end to end vision of the projects.
+
+My most recent job as Data Engineer was focused on ideating, developing and deploying new business aligned with the final client's needs. I want to keep working on data based business, contributing with my knowledge and experience, facing new challenges, and learning even more about data related areas, which are crucial to the new digital economies.
+
 
 ## ACADEMIC FORMATION
  * 2012	Enginyeria Tècnica de Telecomunicacions, specialized in Telemàtica at Escola Politècnica Superior de Castelldefels,  Universitat Politècnica de Catalunya.
@@ -27,27 +30,43 @@ This fulfilling Big Data experience has opened the gates of an area where I've e
 
 ## SKILLS
  
+### Data Engineer skills
+ * **Big Data** experience: **Apache Spark** and **HDFS**.
+ 
+### Testing skills 
  * Definition, review and execution of **Test Plans**
  * API Test Automation, using mainly [Behave](https://github.com/beahve) (BDD for python), and also used old tools like lettuce or soapUI
- * Experienced using **Python**, and also basic skills in **Java** and **C++**.
- * **Big Data** experience: **Apache Spark** and **HDFS**.
  * Experience on **testing Big Data** and **Machine Learning models**.
- * Experience using **Git**, **Jira**, **Jenkins** and **Airflow**.
- * Experience in **Docker** and **Openshift**. 
  * **Regression**, **Integration** and **Acceptance** Testing
  * Testing methodologies (**BDD**, **TDD**)
  * Functional Requirements
  * Non-functional testing, simple performance testing
  * Scripting & Documentation 
  * Basic skills in web and apps test automation, using [Selenium Webdriver](http://www.seleniumhq.org/projects/webdriver/), [appium](https://github.com/appium).
- * Development methodologies (**Agile**, **Scrum**) 
- * Basic skills in **SIP** protocol
- 
+
+### Other techical skills
+ * Experienced using **Python**, and also basic skills in **Java** and **C++**.
+ * Experience using **AWS** stack.
+ * Development methodologies (**Agile**, **Scrum**) ¡
+ * Experience using **Git**, **Jira**, **Jenkins** and **Airflow**.
+ * Experience in **Docker** and **Openshift**. 
+
 ## PROFESSIONAL DATA
+**Data Enginner at Glovo**. May 2021 - January 2023 
+As part of the Micro Fulfillment Centers (MFC) Data analytics team, I’ve been working on bringing all data generated in the ultra fast delivery business into the proper stakeholders inside the company, focusing on data quality and freshness.
+*Tasks:*
+ * Create and maintain **ETL** pipelines in **AWS** using **DBT** as the main data transformation tool.
+ * Align business needs from our stakeholders (marketing, finance, data scientists) with the source data coming from the MFCs
+ * Support non technical roles on building and maintaining data dashboards using **Looker**.
+ * Find and debug data quality issues using **Pyspark**.
+ * Define and implement **Data Quality** checks using both **DBT tests** and **Great Expectations**.
 
-#### Testing experience
+*Achievements:*
+ * Set up the **Data Mesh** repository for MFC data products.
+ * Migrate the first **Data Product** from our legacy pipeline to Data Mesh
+ * Contribute to increase the **Data Freshness** metric from 60% to +90%.
 
-**QA and Python Developer at Data Innovation (Telefónica I+D)**. February 2017 - Today 
+**Big Data Developer at Data Innovation (Telefónica I+D)**. February 2017 - April 2021 
 
 Data Innovation is a team that ideates, implement and validate new business based on Telefonica’s data. In this 4 years I’ve been part of the team I’ve taken different roles: **developer, QA, Data Engineer**, etc. Gaining experience in new fields like Python, Spark, Data Quality, assuring the quality of Machine Learning models or align the product with the client’s needs.
 
